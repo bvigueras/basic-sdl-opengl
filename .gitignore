@@ -1,0 +1,3 @@
+*.o
+*~
+basic_sdl_opengl
