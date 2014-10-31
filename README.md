@@ -4,6 +4,9 @@ Basic SDL OpenGL Example
 This program is an easy example of using SDL and OpenGL to open a window
 and show a triangle.
 
+This code is part of the book "Curso de Experto en Desarrollo de Videojuegos"
+by University of Castilla-La Mancha.
+
 Dependencies
 ------------
 
