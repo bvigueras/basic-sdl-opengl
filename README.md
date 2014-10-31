@@ -12,8 +12,7 @@ Dependencies
 
   * SDL 1.2
 
-Install SDL 1.2
----------------
+### SDL 1.2 Installation ###
 
 1. Debian based system:
 
